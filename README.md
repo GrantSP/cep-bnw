@@ -1,21 +1,8 @@
-### Civ V: Communitas Expansion Pack (for BNW)
+### Communitas Redux
 
- ~ [Features] (http://communitas.wikia.com/wiki/Communitas_Wiki)
- ~ [Discussion] (http://tinyurl.com/communitas-mod)
- ~ [Support] (https://github.com/Thalassicus/cep-bnw/issues)
- ~ [News] (http://civmodding.wordpress.com)
- ~ [Credits] (https://github.com/Thalassicus/cep-bnw/wiki/Credits)
- ~ [Translations] (https://github.com/Thalassicus/cep-bnw/wiki/Translations)
+With CEP's lead now MIA, this is/will be the repository for all future revisions.
 
+The mod will slim down somewhat and move from being the 'do-it-all' to 'do-what-we-know' style of mod.
+Integration with existing mods such as CSD & EUI will mean this mod will focus on the background edits more than the obvious.
 
-This project is organized in four parts:
-
-- **Communitas Map** - This map creates several continents with realistic climate, and numerous offshore islands.  
-- **Communitas AI and Tools (Cat)** - Expands the AI and mod tools of Civ V: Brave New World. Both the expansion pack and interface changes below require the tools.  
-- **Communitas Enhanced Gameplay (Ceg)** - Improves the fun and strategic balance of BNW gameplay.  
-- **Communitas Interface (Cin)** - Improves the visual interface of the game.
-
-
-Contributing to the project is simple! See the collaboration guide for details:  
-https://github.com/Thalassicus/cep-bnw/wiki/Collaboration-Guide
 
